@@ -1,4 +1,4 @@
-# ![adrianalonso.net](https://adrianalonso.net) | Prompt used for one shoting & vibecoding my portfolio.
+# Prompt used for one shoting & vibecoding my portfolio. ![adrianalonso.net](https://adrianalonso.net)
 Code might end up here soon, meanwhile here are some prompts to build a beautiful portfolio!
 
 ## If you want a prompt (mixing o1-pro, Grok, Sonnet 3.7) to one shot and build a SAAS in just a few hours or something more elaborated, I would highly apreciate you droping a star! ⭐
